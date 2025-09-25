@@ -4,14 +4,14 @@
 - VLAN
 - Hotspot
 - Routing Dinamis (Statis)
-- QoS (disinggung)
+- Firewall
 
 ## Anggota Kelompok
-- Achmad Fathoni – BB08101002E
-- M Rakha Syailendra – BB08101001E  
-- Heraldi Rizky Anggriawan – BB081010183E 
-- Thareeq Ziad Ramadhan – BB08101014E  
-- Rico Satyadharma Putra S – BB081010255E 
+- Achmad Fathoni – 23081010017
+- M Rakha Syailendra – 23081010019  
+- Heraldi Rizky Anggriawan – 23081010185 
+- Thareeq Ziad Ramadhan – 23081010187  
+- Rico Satyadharma Putra S – 23081010255 
 
 ---
 
@@ -111,3 +111,4 @@ Kalau kamu mau, saya juga bisa bantu:
 - Compress jadi ZIP untuk keperluan upload
 
 Mau dilanjut ke salah satu itu?
+
